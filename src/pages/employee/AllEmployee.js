@@ -26,7 +26,7 @@ const AllEmployee = () => {
                 </div>
               </div>
               <div className='col-12 col-md-9 d-flex justify-content-end '>
-                <Link to={'/add-employee'} className='btn d-flex justify-content-end --width-fitcontent --btn-blue mt-2'>
+                <Link to={'/employee/add-employee'} className='btn d-flex justify-content-end --width-fitcontent --btn-blue mt-2'>
                   <h5>Add Employee</h5>
                   <i class="fa fa-user-plus fa-lg mx-2 my-1" />
                 </Link>
