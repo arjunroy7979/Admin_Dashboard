@@ -1,0 +1,17 @@
+{
+    "employee": [
+        {
+            "id": "c156",
+            "profile": "Arjun Kumar",
+            "emp_id": "AS235",
+            "designation": "Junior Developer",
+            "emp_status": "Active",
+            "department": "Devlopment",
+            "work_shift": "9:30am-6:30pm",
+            "joining_date": "01/01/2024",
+            "salary": "25,000",
+            "role": "Developer",
+            "action": "active"
+        }
+    ]
+}
